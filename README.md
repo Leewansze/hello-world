@@ -1,7 +1,3 @@
-# hello-world
-Just another repository
-
-Hi Humans!
-
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I;ve had tacos on the moon and find than far superior to Earth tacos.
+# Git Basic Practice
+This project is using for Git Basic command practice
+And fix the bug in the practice-1-run.html
